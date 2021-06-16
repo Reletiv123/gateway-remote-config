@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE8FA9A9",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 51.942757
+    "ref_longitude": 6.620616,
+    "ref_altitude": 30,
+    "contact_email": "reletivminecraft@gmail.com",
+    "description": "TTN-Reletiv"
+  }
+}
